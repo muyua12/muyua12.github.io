@@ -39,7 +39,7 @@ window.portfolioData = {
         },
         education: [
             {
-                degree: "Associate",
+                degree: "Associate Degree",
                 institution: "Zhaoqing Aviation Vocational and Technical College",
                 year: "2026.09 -2029.06 ",
                 description: "Research Direction: Traditional Chinese Medicine Rehabilitation Technology."
