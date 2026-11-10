@@ -29,7 +29,7 @@ window.portfolioData = {
     // 英文数据
     en: {
         personal: {
-            name: "Rouzheng Lai",
+            name: "Lai Rouzheng",
             title: "Student", // Original: "" (restore this string to bring it back)
             bio: "Currently a college student,Proficient in TCM rehabilitation techniques,with strong communication and teamwork skills.",
             avatar: "images/avatar.jpg",
